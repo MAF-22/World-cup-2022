@@ -1,0 +1,21 @@
+/* font */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ---------------
+   top section
+--------------- */
+h1 {
+    font-size: 38px;
+}
+
+.top-banner img {
+    width: 120%
+}
+
+.top-section {
+    display: flex;
+    width: 50%;
+
+}
